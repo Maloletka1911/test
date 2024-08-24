@@ -1,8 +1,6 @@
 #include <iostream>
-
 int main() {
-    // Write C++ code here
-    std::cout << "Потом напишу";
-
+    cout << "Потом напишу";
+    cout << "Hello World";
     return 0;
 }
